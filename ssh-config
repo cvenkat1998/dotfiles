@@ -1,6 +1,6 @@
 # CAEN
-   Host mmd
+   Host CAEN
    HostName login.engin.umich.edu
-   User mmdarden
+   User cvenkat
    Compression yes
 
